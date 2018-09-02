@@ -1,5 +1,5 @@
 # Awesome Sublime Text
-A curated list of awesome packages and themes from the Sublime ecosystem.
+:octocat: A curated list of awesome packages and themes from the Sublime ecosystem.
 
 ## Table of Contents
 - [Essentials](#essentials)
