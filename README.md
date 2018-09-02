@@ -9,7 +9,7 @@ A curated list of awesome packages and themes from the Sublime ecosystem.
 
 ## Essentials
 * [Sublime Text](https://www.sublimetext.com/)
-* [Package Control] (https://packagecontrol.io/)
+* [Package Control](https://packagecontrol.io/)
 
 ## Packages
 This is a list of well-documented, tested packages that are frequently used in Sublime Text. If you're looking for an exhaustive list of packages, then check out the Package Repositories mentioned above.
