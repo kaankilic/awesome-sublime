@@ -22,7 +22,7 @@ This is a list of well-documented, tested packages that are frequently used in S
 
 ### Files and Markdown Editors
 * [Markdown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing)
-* [FileDiffs](https://github.com/SublimeText-Markdown/MarkdownEditing)
+* [FileDiffs](https://github.com/colinta/SublimeFileDiffs)
 
 ### Liners and Syntax Highlighters
 * [Emmet](https://github.com/sergeche/emmet-sublime#readme)
@@ -52,4 +52,4 @@ Found an awesome package, blog, course or video? Send me a pull request!
 ## License
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Awesome Sublime is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
