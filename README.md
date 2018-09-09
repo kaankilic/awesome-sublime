@@ -71,6 +71,80 @@ This is a list of well-documented, tested packages that are frequently used in S
                 Search in the files by filename.
             </td>
         </tr>
+        <tr>
+            <td>
+                <kbd>Cmd ⌘</kbd> + <kbd>Mouse Click</kbd>
+            </td>
+            <td>
+                It allows you to type in multiple places at the same time, saving you development time.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### Editing
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <kbd>Cmd ⌘</kbd> + <kbd>Kntrl ^</kbd> + <kbd>↑/↓</kbd>
+            </td>
+            <td>
+                Shift line up or down
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <kbd>Cmd</kbd> + <kbd>X</kbd>
+            </td>
+            <td>
+                Cut the line
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <kbd>Cmd</kbd> + <kbd>K</kbd>
+            </td>
+            <td>
+                Delete from cursor to end of line
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <kbd>Kntrl ⌃</kbd> + <kbd>Shift ⇧</kbd> + <kbd>↑/↓</kbd>
+            </td>
+            <td>Extra cursor on the line above and below</td>
+        </tr>
+    </tbody>
+</table>
+
+### Navigation
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <kbd>Cmd </kbd> + <kbd>P</kbd>
+            </td>
+            <td>
+                Quick-open files by name
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <kbd>Cmd </kbd> + <kbd>R</kbd>
+            </td>
+            <td>
+                Go to symbol
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <kbd>Cmd </kbd> + <kbd>G</kbd>
+            </td>
+            <td>
+                Goto line in current file
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -81,3 +155,5 @@ Found an awesome package, blog, course or video? Send me a pull request!
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Awesome Sublime is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+[^1]: 
