@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Essentials](#essentials)
 - [Packages](#packages)
+- [Tricky Things](#tricky-things)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -34,7 +35,7 @@ This is a list of well-documented, tested packages that are frequently used in S
 * [SASS](https://packagecontrol.io/packages/Sass)
 * [Babel](https://packagecontrol.io/packages/Babel)
 
-### Github Integrations
+### Git Integrations
 * [Git](https://github.com/kemayo/sublime-text-git)
 * [SublimeGit](https://packagecontrol.io/packages/SublimeGit)
 * [GitGutter](https://packagecontrol.io/packages/GitGutter)
@@ -83,7 +84,7 @@ This is a list of well-documented, tested packages that are frequently used in S
 </table>
 
 ### Editing
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <td>
