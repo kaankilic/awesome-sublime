@@ -45,6 +45,42 @@ This is a list of well-documented, tested packages that are frequently used in S
 * [Ayu](https://github.com/dempfi/ayu)
 * [Material Theme](https://github.com/equinusocio/material-theme)
 * [Materialize](https://github.com/saadq/Materialize)
+* [Boxy](https://github.com/ihodev/sublime-boxy)
+
+## Tricky Things
+### Selection
+<table>
+    <tbody>
+        <tr>
+            <td><kbd>Cmd ⌘</kbd> + <kbd>D</kbd></td>
+            <td>Select a word</td>
+        </tr>
+        <tr>
+            <td><kbd>Cmd ⌘</kbd> + <kbd>L</kbd></td>
+            <td>Select a line</td>
+        </tr>
+        <tr>
+            <td><kbd>Cmd ⌘</kbd> + <kbd>A</kbd></td>
+            <td>Select the entire content within the document.</td>
+        </tr>
+        <tr>
+            <td>
+                <kbd>kntrl ⌃</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>M</kbd>
+            </td>
+            <td>
+                Select anything inside the bracket (which is useful when working with CSS or JavaScript)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <kbd>Cmd ⌘</kbd> + <kbd>P</kbd>
+            </td>
+            <td>
+                Search in the files by filename.
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Contributing
 Found an awesome package, blog, course or video? Send me a pull request!
@@ -52,4 +88,5 @@ Found an awesome package, blog, course or video? Send me a pull request!
 ## License
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).https://camo.githubusercontent.com/cd48eaf1d2bc4329db6d5ad7003bda5af7db81a6/68747470733a2f2f692e696d6775722e636f6d2f4b59584a6242752e706e67
+[Ayu - Dark Theme]: https://camo.githubusercontent.com/cd48eaf1d2bc4329db6d5ad7003bda5af7db81a6/68747470733a2f2f692e696d6775722e636f6d2f4b59584a6242752e706e67
