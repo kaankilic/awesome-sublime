@@ -4,6 +4,11 @@
 ## Table of Contents
 - [Essentials](#essentials)
 - [Packages](#packages)
+    + [Editor enhancements](#editor-enhancements)
+    + [Files and Markdown Editors](#files-and-markdown-editors)
+    + [Liners and Syntax Highlighters](#liners-and-syntax-highlighters)
+    + [Git Integrations](#git-integrations)
+    + [Themes](#themes)
 - [Tricky Things](#tricky-things)
 - [Contributing](#contributing)
 - [License](#license)
