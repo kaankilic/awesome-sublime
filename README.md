@@ -151,6 +151,14 @@ This is a list of well-documented, tested packages that are frequently used in S
                 Goto line in current file
             </td>
         </tr>
+        <tr>
+            <td>
+                <kbd>Cmd</kbd> + <kbd>Shift ⇧</kbd>
+            </td>
+            <td>
+                Switch Between Tabs
+            </td>
+        </tr>
     </tbody>
 </table>
 
