@@ -121,6 +121,12 @@ This is a list of well-documented, tested packages that are frequently used in S
             </td>
             <td>Extra cursor on the line above and below</td>
         </tr>
+        <tr>
+            <td>
+                <kbd>F6</kbd>
+            </td>
+            <td>Turn On Spellcheck</td>
+        </tr>
     </tbody>
 </table>
 
