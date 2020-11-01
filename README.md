@@ -30,7 +30,8 @@ This is a list of well-documented, tested packages that are frequently used in S
 * [Markdown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing)
 * [FileDiffs](https://github.com/colinta/SublimeFileDiffs)
 
-### Liners and Syntax Highlighters
+### Linters and Syntax Highlighters
+* [TabNine](https://github.com/codota/tabnine-sublime)
 * [Emmet](https://github.com/sergeche/emmet-sublime#readme)
 * [Alignment](https://github.com/wbond/sublime_alignment)
 * [Trimmer](https://github.com/wbond/sublime_alignment)
