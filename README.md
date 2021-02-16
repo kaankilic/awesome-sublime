@@ -31,6 +31,7 @@ This is a list of well-documented, tested packages that are frequently used in S
 * [FileDiffs](https://github.com/colinta/SublimeFileDiffs)
 
 ### Linters and Syntax Highlighters
+* [Semantic Highlighter](https://github.com/kapitanluffy/sublime-semantic-highlighter)
 * [TabNine](https://github.com/codota/tabnine-sublime)
 * [Emmet](https://github.com/sergeche/emmet-sublime#readme)
 * [Alignment](https://github.com/wbond/sublime_alignment)
